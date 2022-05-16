@@ -1,38 +1,38 @@
-s,e,type,text1,text2
-1,1,p,Most Unusual Item, null
-1,1,r,In the lab is a watermelon. Eat as much watermelon as possible. You have one minute. Your time starts when you open the door to the lab, null
-1,1,r,Paint the best picture of a horse whilst riding a horse, null
-1,1,r,Completely empty this bathtub. Fastest wins. You must not remove the plug tip or damage the bathtub. Your time starts now, null
-1,1,s,Pop on a onsie inside a pop-up tent, null
-1,1,t,Find Alex. Fastest wins. Your time starts now, null
-1,2,p,Most impressive item, null
-1,2,r,High-five a 55-year-old. Fastest wins. Your time starts now, null
-1,2,r,Identify the contents of these pies. You may touch the pies but you may not breach their pastry, null
-1,2,r,Do something that will look impressive in reverse. The taskmaster will see whatever act you perform played backwards. You must therefore do something backwards that will look impressive when played in reverse,null
-1,2,s,Crack the code. Unshackle yourself and sprint 1 metre, null
-1,3,p,Most meaningful item,null
-1,3,r,Throw a tea bag into a mug from the furthest distance. You have exactly one hour. Your time starts now,null
-1,3,r,Using this device to track your route create the best image for Taskmaster. You have one hour. Your time starts when you take your first step. Pop a balloon to signal that you have finished your image,null
-1,3,r,Buy the best present for the Taskmaster. Here is twenty pounds. You have ten weeks. Your time starts now,null
-1,3,r,Using only the items on this table get this egg as high as possible. Highest wins. The egg must not break. You have twenty minutes. Your time starts now, null
-1,3,s,Stand up after 100 seconds, null
-1,3,t,What is Frank Skinner's age in minutes?, null
-1,4,p,Most beautiful item, null
-1,4,r,Make this ice block disappear as fast as possible. You have one hour. Your time starts now, null
-1,4,c2,Count the number of beans in this baked bean tin. Your time starts now, null
-1,4,c2,Count the hoops in this tin of spaghetti hoops. Your time starts now, null
-1,4,rt,Get to eleven points as fast as possible. Your time starts now, null
-1,4,r,Fill an egg cup with as many tears as possible. You have twenty minutes, null
-1,4,c2,Count the grains of rice in this bag of rice. Your time starts now, null
-1,4,s,Memorise the names of an Australian rules football team. Most accurate wins, null
-1,5,p,Most valuable item, null
-1,5,r,Get this boulder as far from this place as possible. You have one hour. Your time starts now, null
-1,5,r,Grow the longest nail. You have ten weeks. Your time starts now, null
-1,5,rt,Make this bed to a hotel standard while holding hands. Your time ends when you get into bed. Fastest wins. Hold hands now. Your time starts now, null
-1,5,r,Make this Swedish person blush as deeply as possible. You have ten minutes. Your time starts now, null
-1,5,s,Blow up the biggest balloon whilst blindfolded. You have 100 seconds and one balloon, null
-1,6,p,Most satisfying item, null
-1,6,r,Get the lowest golf score using eggs. You must complete the five holes using chickens eggs. Your score will be calculated as follows. Shots times eggs times minutes. Your time starts now,null
-1,6,rt,Stage a realistic blooper from a home movie. The taskmaster will give points to the best filmmaker. You have one hour. Your time starts now,null
-1,6,r,Make the best meal for the taskmaster using ingredients beginning with every letter of the alphabet. You have a total of two hours. Your time starts now,null
-1,6,s,Wearing boxing gloves put the blue sweets in the empty bowl. Most blue sweets wins. Non blue sweets will be subtracted from your total. You have 100 seconds,null
+s,e,type,text
+1,1,p,Bring in the most Unusual Item.
+1,1,r,In the lab is a watermelon. Eat as much watermelon as possible. You have one minute. Your time starts when you open the door to the lab.
+1,1,r,Paint the best picture of a horse whilst riding a horse.
+1,1,r,Completely empty this bathtub. Fastest wins. You must not remove the plug tip or damage the bathtub. Your time starts now.
+1,1,s,Pop on a onsie inside a pop-up tent.
+1,1,t,Find Alex. Fastest wins. Your time starts now.
+1,2,p,Bring in the most impressive item.
+1,2,r,High-five a 55-year-old. Fastest wins. Your time starts now.
+1,2,r,Identify the contents of these pies. You may touch the pies but you may not breach their pastry.
+1,2,r,Do something that will look impressive in reverse. The taskmaster will see whatever act you perform played backwards. You must therefore do something backwards that will look impressive when played in reverse.
+1,2,s,Crack the code. Unshackle yourself and sprint 1 metre.
+1,3,p,Bring in the most meaningful item.
+1,3,r,Throw a tea bag into a mug from the furthest distance. You have exactly one hour. Your time starts now.
+1,3,r,Using this device to track your route create the best image for Taskmaster. You have one hour. Your time starts when you take your first step. Pop a balloon to signal that you have finished your image.
+1,3,r,Buy the best present for the Taskmaster. Here is twenty pounds. You have ten weeks. Your time starts now.
+1,3,r,Using only the items on this table get this egg as high as possible. Highest wins. The egg must not break. You have twenty minutes. Your time starts now.
+1,3,s,Stand up after 100 seconds.
+1,3,t,What is Frank Skinner's age in minutes?
+1,4,p,Bring in the most beautiful item.
+1,4,r,Make this ice block disappear as fast as possible. You have one hour. Your time starts now.
+1,4,c2,Count the number of beans in this baked bean tin. Your time starts now.
+1,4,c2,Count the hoops in this tin of spaghetti hoops. Your time starts now.
+1,4,rt,Get to eleven points as fast as possible. Your time starts now.
+1,4,r,Fill an egg cup with as many tears as possible. You have twenty minutes.
+1,4,c2,Count the grains of rice in this bag of rice. Your time starts now.
+1,4,s,Memorise the names of an Australian rules football team. Most accurate wins.
+1,5,p,Bring in the most valuable item.
+1,5,r,Get this boulder as far from this place as possible. You have one hour. Your time starts now.
+1,5,r,Grow the longest nail. You have ten weeks. Your time starts now.
+1,5,rt,Make this bed to a hotel standard while holding hands. Your time ends when you get into bed. Fastest wins. Hold hands now. Your time starts now.
+1,5,r,Make this Swedish person blush as deeply as possible. You have ten minutes. Your time starts now.
+1,5,s,Blow up the biggest balloon whilst blindfolded. You have 100 seconds and one balloon.
+1,6,p,Bring in the most satisfying item.
+1,6,r,Get the lowest golf score using eggs. You must complete the five holes using chickens eggs. Your score will be calculated as follows. Shots times eggs times minutes. Your time starts now.
+1,6,rt,Stage a realistic blooper from a home movie. The taskmaster will give points to the best filmmaker. You have one hour. Your time starts now.
+1,6,r,Make the best meal for the taskmaster using ingredients beginning with every letter of the alphabet. You have a total of two hours. Your time starts now.
+1,6,s,Wearing boxing gloves put the blue sweets in the empty bowl. Most blue sweets wins. Non blue sweets will be subtracted from your total. You have 100 seconds.
