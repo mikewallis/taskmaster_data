@@ -1,23 +1,23 @@
 s,e,type,text
-1,1,p,Bring in the most Unusual Item.
+1,1,p,most Unusual Item.
 1,1,r,In the lab is a watermelon. Eat as much watermelon as possible. You have one minute. Your time starts when you open the door to the lab.
 1,1,r,Paint the best picture of a horse whilst riding a horse.
 1,1,r,Completely empty this bathtub. Fastest wins. You must not remove the plug tip or damage the bathtub. Your time starts now.
 1,1,s,Pop on a onsie inside a pop-up tent.
 1,1,t,Find Alex. Fastest wins. Your time starts now.
-1,2,p,Bring in the most impressive item.
+1,2,p,most impressive item.
 1,2,r,High-five a 55-year-old. Fastest wins. Your time starts now.
 1,2,r,Identify the contents of these pies. You may touch the pies but you may not breach their pastry.
 1,2,r,Do something that will look impressive in reverse. The taskmaster will see whatever act you perform played backwards. You must therefore do something backwards that will look impressive when played in reverse.
 1,2,s,Crack the code. Unshackle yourself and sprint 1 metre.
-1,3,p,Bring in the most meaningful item.
+1,3,p,most meaningful item.
 1,3,r,Throw a tea bag into a mug from the furthest distance. You have exactly one hour. Your time starts now.
 1,3,r,Using this device to track your route create the best image for Taskmaster. You have one hour. Your time starts when you take your first step. Pop a balloon to signal that you have finished your image.
 1,3,r,Buy the best present for the Taskmaster. Here is twenty pounds. You have ten weeks. Your time starts now.
 1,3,r,Using only the items on this table get this egg as high as possible. Highest wins. The egg must not break. You have twenty minutes. Your time starts now.
 1,3,s,Stand up after 100 seconds.
 1,3,t,What is Frank Skinner's age in minutes?
-1,4,p,Bring in the most beautiful item.
+1,4,p,most beautiful item.
 1,4,r,Make this ice block disappear as fast as possible. You have one hour. Your time starts now.
 1,4,c2,Count the number of beans in this baked bean tin. Your time starts now.
 1,4,c2,Count the hoops in this tin of spaghetti hoops. Your time starts now.
@@ -25,14 +25,46 @@ s,e,type,text
 1,4,r,Fill an egg cup with as many tears as possible. You have twenty minutes.
 1,4,c2,Count the grains of rice in this bag of rice. Your time starts now.
 1,4,s,Memorise the names of an Australian rules football team. Most accurate wins.
-1,5,p,Bring in the most valuable item.
+1,5,p,most valuable item.
 1,5,r,Get this boulder as far from this place as possible. You have one hour. Your time starts now.
 1,5,r,Grow the longest nail. You have ten weeks. Your time starts now.
 1,5,rt,Make this bed to a hotel standard while holding hands. Your time ends when you get into bed. Fastest wins. Hold hands now. Your time starts now.
 1,5,r,Make this Swedish person blush as deeply as possible. You have ten minutes. Your time starts now.
 1,5,s,Blow up the biggest balloon whilst blindfolded. You have 100 seconds and one balloon.
-1,6,p,Bring in the most satisfying item.
+1,6,p,most satisfying item.
 1,6,r,Get the lowest golf score using eggs. You must complete the five holes using chickens eggs. Your score will be calculated as follows. Shots times eggs times minutes. Your time starts now.
 1,6,rt,Stage a realistic blooper from a home movie. The taskmaster will give points to the best filmmaker. You have one hour. Your time starts now.
 1,6,r,Make the best meal for the taskmaster using ingredients beginning with every letter of the alphabet. You have a total of two hours. Your time starts now.
 1,6,s,Wearing boxing gloves put the blue sweets in the empty bowl. Most blue sweets wins. Non blue sweets will be subtracted from your total. You have 100 seconds.
+2,1,p,most important document.
+2,1,r,Place these three exercise balls on the yoga mat on the top of that hill. The task is complete when all three balls it fully inflated and stationary on the mat. Fastest wins. Your time starts now.
+2,1,r,Get this potato into the golf hole. You may not touch the red green. Fastest wins. Your time starts now.
+2,1,r,Find out the following information from this Swedish person: what is your date of birth; what is your father's job; what is your greatest fear; how would you describe me; what is your favourite food. The Swedish person may not speak or write in English. Fastest and most accurate wins. Your time starts now.
+2,1,s,Pack for your holiday. All items must either be packed in your hand luggage or worn on your body. Fastest wins.
+2,2,p,trendiest item of clothing.
+2,2,r,Eat me. Fastest wins.
+2,2,r,Make the best music video for a nursery rhyme. You have one hour. Your time starts now.
+2,2,r,Using this camera take a picture of an inanimate object that looks like you. Closest resemblence wins. Your time starts now.
+2,2,r,Order the following pizza for the taskmaster: extra large vegetarian pizza with pepperioni and bacon without tomato and cheese. You may not use the follwing words: extra large vegetarian pizza pepperoni bacon tomato cheese. You get a bonus point if you can make the pizza person say bubbles.
+2,2,s,Using these big chopsticks get these potatoes into your basket. You must only hold the big chopsticks on the grips provided. The big chopsticks alone may touch the potatoes. Whoever has the most potatoes in their basket after 100 seconds wins.
+2,3,p,best dinner party guest.
+2,3,r,Impress this mayor. You have a maximum of twenty minutes. Your time starts now.
+2,3,r,Make the most unexpected silhouette on this screen. You have thirty minutes. Your time starts now.
+2,3,r,Buy a gift for the taskmaster. You have twenty weeks.
+2,3,rt,1: Put on this blindfold then instruct only the person closest to you to open their task. 2: Put the earplugs in your ears and the ear protectors over the earplugs then continue reading. You must remain within your bandstand. Instruct the next person to open their task. 3: Do not read this out loud. Get a potato. Fastest wins.
+2,3,s,Throw the rabbits into your hat. The person with the most rabbits in their hat after one hundred seconds wins.
+2,4,p,coolest blue thing.
+2,4,r,Rescue the cat. Best rescue wins. Your time starts now. Answers to the name Patatas.
+2,4,r,Conceal this pineapple on your person. No part of the pineapple may be thrown away. You have twenty minutes after which Alex will inspect you. Most incorrect guesses wins. Your time starts now.
+2,4,r,Set a fun task. Your task must take no more than one minute. You have ten minutes. Your time starts now. 
+2,4,c3,Prove how strong you are. Whoever looks the strongest wins. You have one minute. Your time starts now.
+2,4,c3,Enjoy this clip of the taskmaster. Whoever finds it the funniest wins. Your time starts now.
+2,4,c3,Perform a recognisible rendition of the William Tell overture using just your hands and cheeks. You have one minute and one attempt. Your time starts now.
+2,4,c3,Present a makeup tutorial. Best tutorial wins. You have one minute. Your time starts now.
+2,4,rt,Using only the items on the rug construct the best thing for the taskmaster. You have thirty minutes. Your time starts now.
+2,4,s,Create the highest tower using only these potato based items. Your potato tower must be self standing. Your potato tower must be built on the table. Your potato tower will be measured from the table top to the highest potato point. You have one hundred seconds.
+2,5,p,best piece of memorabilia.
+2,5,r,Get all this shopping into the shopping trolley. Fastest wins. Your time starts now.
+2,5,rt,Make the best stop motion film starring this potato. You have one hour. Your time starts now.
+2,5,r,Make a bridge over the river using only items on this table. Highest self supporting bridge wins. The bridge alone must support the potato. You must not touch the taskmaster's house. You have twenty minutes. Your time starts now.
+2,5,s,Put on a pair of food handling gloves. Eat a whole banana correctly. Put on a tie. Clap as many times as possible. All tasks must be completed in one hundred seconds. Most claps wins.

@@ -3,7 +3,7 @@ csvs of taskmaster data
 
 ## tasks.csv 
 ### columns:
-    Series, Episode, Task Type, Task Text (1)
+    Series, Episode, Task Type, Task Text 
 
 Task type column codes:
 ```
@@ -11,6 +11,7 @@ p = prize
 r = pre-recorded task
 rt = pre-recorded team task
 s = live studio task
+st = live studio team task
 t = tie break
 cx (where x is a number between 1-5) = sole task for just one contestant
 ```
